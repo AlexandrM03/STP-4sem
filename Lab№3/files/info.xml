@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="by.mozolevskiy.one.employee.Admin" id="Admin0">
+  <void class="by.mozolevskiy.one.human.Human" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Admin0"/>
+    <string>Anna</string>
+   </void>
+  </void>
+  <void class="by.mozolevskiy.one.human.Human" method="getField">
+   <string>age</string>
+   <void method="set">
+    <object idref="Admin0"/>
+    <int>29</int>
+   </void>
+  </void>
+  <void property="salary">
+   <float>1230.9</float>
+  </void>
+ </object>
+</java>
