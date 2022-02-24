@@ -1,12 +1,24 @@
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - Starting program
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - Company created
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - Senior is found
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - List is sorted
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - XML serialized
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - XML deserialized
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - JSON serialized
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - JSON deserialized
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - Stream API
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - SAX
-18.02.2022 14:42:19 [main] INFO  by.mozolevskiy.one.main.Main - Finally block
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - Starting program
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - Company created
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - Senior is found
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - List is sorted
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - XML serialized
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - XML deserialized
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - JSON serialized
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - JSON deserialized
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - Stream API
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - SAX
+18.02.2022 16:42:05 [main] INFO  by.mozolevskiy.one.main.Main - Finally block
+
+18.02.2022 16:44:55 [main] INFO  by.mozolevskiy.one.main.Main - Starting program
+18.02.2022 16:44:55 [main] INFO  by.mozolevskiy.one.main.Main - Company created
+18.02.2022 16:44:55 [main] INFO  by.mozolevskiy.one.main.Main - Senior is found
+18.02.2022 16:44:55 [main] INFO  by.mozolevskiy.one.main.Main - List is sorted
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - XML serialized
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - XML deserialized
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - JSON serialized
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - JSON deserialized
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - Stream API
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - SAX
+18.02.2022 16:44:56 [main] INFO  by.mozolevskiy.one.main.Main - Finally block
 
